@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 ---
 ## About Me 👨🏽‍💻
 
-A frontend web developer working as a freelancer in Douala, the Economic capital of Cameroon🇨🇲. I'm a curious person always open to learn, grow and expand my circle of competence in everything that I do.  .In my own capacity, I try  to help people around me in various areas. Ohhh, did I tell you I love reading? Yeah I love reading self-help, science fiction, history and financial books during my free time.
+A frontend web developer working as a freelancer in Douala, the Economic capital of Cameroon🇨🇲. I set foot into field of tech and web development fully in January 2020 and the story has been a beautiful one since then. I'm always looking forward to working with people from diverse background to bring long lasting and robust solutions to common problems in our world. I love developing immersive and user-friendly interfaces and I have soft spot for clean design.
+- 💬 You can get in touch with me by email at [dbrandonbawe@gmail.com](mailto:dbrandonbawe@gmail.com), [Twitter(@flaacko_flaacko)](https://twitter.com/flaacko_flaacko), and [LinkedIn](https://www.linkedin.com/in/damue-brandon-bawe-73ba121a1/).
 
 ---
 ## Things I code with 👨🏾‍💻💻
