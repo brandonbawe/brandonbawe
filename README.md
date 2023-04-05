@@ -1,4 +1,14 @@
-### Hello 👋, Nice seeing you here!! I'm Brandon Bawe
+### 👋 Hi, I'm Brandon Bawe!
+
+👨‍💻 I'm a frontend developer with four years of experience creating beautiful, user-friendly web interfaces. I specialize in building responsive, scalable, and accessible websites using the latest web technologies such as HTML5, CSS3, JavaScript, and modern front-end frameworks like React, Vue, and Angular.
+
+🎨 I'm passionate about design and have an eye for detail, which helps me create visually stunning web applications that are not only aesthetically pleasing but also easy to use and navigate.
+
+🚀 I'm constantly learning and experimenting with new tools and technologies to improve my skills and stay up-to-date with the latest trends in the industry. I'm also a big advocate of open-source software and contribute to various community-driven projects in my free time.
+
+🌍 When I'm not coding, you can find me watching documentaries, reading books, or listening to music.
+
+📫 Feel free to reach out to me at dbrandonbawe@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/brandon-bawe-damue-73ba121a1/) or [Twitter](https://twitter.com/flaacko_flaacko) to discuss any exciting frontend projects you may have in mind or just to say hello!
 
 <!--
 **brandonbawe/brandonbawe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Twitter Follow](https://img.shields.io/twitter/follow/flaacko_flaacko?style=social)
----
-## About Me 👨🏽‍💻
-
-A frontend web developer working as a freelancer in Douala, the Economic capital of Cameroon🇨🇲. I set foot into field of tech and web development fully in January 2020 and the story has been a beautiful one since then. I'm always looking forward to working with people from diverse background to bring long lasting and robust solutions to common problems in our world. I love developing immersive and user-friendly interfaces and I have soft spot for clean design.
-- 💬 You can get in touch with me by email at [dbrandonbawe@gmail.com](mailto:dbrandonbawe@gmail.com), [Twitter(@flaacko_flaacko)](https://twitter.com/flaacko_flaacko), and [LinkedIn](https://www.linkedin.com/in/damue-brandon-bawe-73ba121a1/).
 
 ---
 ## Things I code with 👨🏾‍💻💻
