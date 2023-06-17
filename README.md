@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Brandon Bawe!
+### 👋 Hi, I'm Brandon Damue!
 
 👨‍💻 I'm a frontend developer with four years of experience creating beautiful, user-friendly web interfaces. I specialize in building responsive, scalable, and accessible websites using the latest web technologies such as HTML5, CSS3, JavaScript, and modern front-end frameworks like React, Vue, and Angular.
 
