@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Brandon Damue!
 
-👨‍💻 I'm a frontend developer with four years of experience creating beautiful, user-friendly web interfaces. I specialize in building responsive, scalable, and accessible websites using the latest web technologies such as HTML5, CSS3, JavaScript, and modern front-end frameworks like React, Vue, and Angular.
+👨‍💻 I'm a software developer with four years of experience creating beautiful, user-friendly web interfaces. I specialize in building responsive, scalable, and accessible websites using the latest web technologies such as HTML5, CSS3, JavaScript, and modern front-end frameworks like React, Vue, and Angular.
 
 🎨 I'm passionate about design and have an eye for detail, which helps me create visually stunning web applications that are not only aesthetically pleasing but also easy to use and navigate.
 
@@ -34,11 +34,16 @@ Here are some ideas to get you started:
 
 ## Latest Blog Post 🗞
 <!-- BLOG-POST-LIST:START -->
-- [React: A beginner-friendly Introduction](https://dev.to/brandonbawe/react-a-beginner-friendly-introduction-51c7)
-- [Top 9 Backend Frameworks Developers and big Tech Companies are using in 2021.](https://damue.hashnode.dev/top-9-backend-frameworks-developers-and-big-tech-companies-are-using-in-2021)
-- [Object Oriented Programming (OOP) in JavaScript](https://dev.to/brandonbawe/object-oriented-programming-oop-in-javascript-1kj2)
-- [How to Implement CRUD Operations in Your Application Using PHP and MySQL](https://damue.hashnode.dev/how-to-implement-crud-operations-in-your-application-using-php-and-mysql)
-- [Introduction to Version Control with Git.](https://damue.hashnode.dev/introduction-to-version-control-with-git)
+- [Simplify Your AWS Infrastructure: How AWS Organizations Empowers Businesses
+](https://medium.com/@dbrandonbawe/simplify-your-aws-infrastructure-how-aws-organizations-empowers-businesses-76b535c0bc6d)
+- [Understanding VPCs and Subnets: Foundations for AWS Networking
+](https://medium.com/@dbrandonbawe/understanding-vpcs-and-subnets-foundations-for-aws-networking-316eae93167f)
+- [Navigating AWS’s AI/machine learning tools: How AWS is making AI/ML accessible for everyone
+](https://medium.com/aimonks/navigating-awss-ai-machine-learning-tools-how-aws-is-making-ai-ml-accessible-for-everyone-550cfeb0fc21)
+- [From Logs to Compliance: A Guide to AWS Monitoring and auditing with CloudWatch, CloudTrail, and AWS Config
+](https://medium.com/@dbrandonbawe/from-logs-to-compliance-a-guide-to-aws-monitoring-and-auditing-with-cloudwatch-cloudtrail-and-4322b14b1c02)
+- [Understanding the Spread Operator(...) in JavaScript
+](https://dev.to/brandondamue/understanding-the-spread-operator-in-javascript-4pg6)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog posts](https://damue.hashnode.dev/)
