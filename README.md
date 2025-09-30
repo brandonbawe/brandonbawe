@@ -1,14 +1,16 @@
 ### 👋 Hi, I'm Brandon Damue!
 
-👨‍💻 A charismatic software developer, cloud engineer and seasoned technical writer, dedicated to creating exceptional solutions. With a rich blend of technical prowess and soft skills, I bring a unique perspective to every project I undertake.
+Hi, I’m Brandon a software developer, cloud engineer, and technical writer who loves building things that actually make a difference.
 
-🎨 With a diligent approach and an eye for detail, I create robust software applications that seamlessly blend functionality and user experience. My expertise in cloud engineering allows me to architect scalable and resilient infrastructures, ensuring that projects can thrive in dynamic environments.
+I enjoy creating software that works smoothly and feels good to use, and I’m equally at home designing cloud setups that can scale and stay reliable no matter what’s thrown at them.
 
-📝 It doesn't stop there. As a technical writer, I believe that effective communication is the cornerstone of successful projects. I detaily document intricate technical concepts, making them accessible and understandable to diverse audiences. My empathetic nature and collaborative spirit enable me to work closely with teams, listening to their needs and ensuring that every detail aligns with the overarching vision. Through intentional craftsmanship, innovative problem-solving, and a dedication to excellence, I am committed to driving transformative results and making a lasting impact.
+Writing is also a big part of what I do. I think clear documentation is just as important as good code, so I spend time breaking down technical ideas in a way that makes sense to everyone, not just engineers.
 
-🌍 When I'm not coding or writing, you can find me in the gym working out, reading books, or listening to music.
+I care a lot about working well with people, listening, and making sure the details line up with the bigger picture. At the end of the day, I want to solve problems, build useful things, and leave things better than I found them.
 
-📫 Feel free to reach out to me at dbrandonbawe@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/brandon-bawe-damue-73ba121a1/) or [Twitter](https://twitter.com/flaacko_flaacko) to discuss any exciting frontend projects you may have in mind or just to say hello!
+Outside of tech, you’ll probably catch me at the gym, with a book, or lost in some music.
+
+📫 Feel free to reach out to me at dbrandonbawe@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/brandon-damue/)) to discuss any excitin projects you may have in mind or just to say hello!
 
 <!--
 **brandonbawe/brandonbawe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
