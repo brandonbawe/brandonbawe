@@ -1,14 +1,12 @@
 ### 👋 Hi, I'm Brandon Damue!
 
-Hi, I’m Brandon a software developer, cloud engineer, and technical writer who loves building things that actually make a difference.
+I'm a Cloud-Native Software Engineer and Team Lead with over five years of professional experience, dedicated to building and deploying products that are not just beautiful, but scalable and cost-efficient.
 
-I enjoy creating software that works smoothly and feels good to use, and I’m equally at home designing cloud setups that can scale and stay reliable no matter what’s thrown at them.
+My core expertise is at the intersection of modern frontend architecture and reliable cloud infrastructure. I spend my days focused on the Next.js/React/TypeScript ecosystem, leading the technical direction for applications from initial design (Figma) through deployment. As a Co-Founder, I understand that engineering decisions must align directly with business goals and user needs.
 
-Writing is also a big part of what I do. I think clear documentation is just as important as good code, so I spend time breaking down technical ideas in a way that makes sense to everyone, not just engineers.
+The other half of my focus is on DevOps and delivery. I hold the AWS Certified DevOps Engineer - Professional certification, which means I don't just write code; I own the process of getting it securely to production. I specialize in automating everything, from CI/CD pipelines to provisioning infrastructure using Terraform (IaC).
 
-I care a lot about working well with people, listening, and making sure the details line up with the bigger picture. At the end of the day, I want to solve problems, build useful things, and leave things better than I found them.
-
-Outside of tech, you’ll probably catch me at the gym, with a book, or lost in some music.
+Beyond the keyboard, I'm passionate about sharing knowledge. I’m an active AWS Community Builder in the Networking & Content Delivery space, creating tutorials to help new engineers understand complex cloud architecture. This combination of hands-on technical leadership and subject matter advocacy defines my approach: Build with excellence, and share the knowledge.
 
 📫 Feel free to reach out to me at dbrandonbawe@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/brandon-damue/)) to discuss any excitin projects you may have in mind or just to say hello!
 
